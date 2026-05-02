@@ -1,0 +1,9 @@
+version: '3.8'
+services:
+  oracle-db:
+    image: gvenzl/oracle-free:latest
+    container_name: vaultcore-db
+    environment:
+      - ORACLE_PASSWORD=Oracle123!
+    ports:
+      - "1521:1521"
