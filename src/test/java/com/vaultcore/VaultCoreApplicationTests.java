@@ -1,4 +1,4 @@
-package com.vaultcore.vaultcore;
+package com.vaultcore;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

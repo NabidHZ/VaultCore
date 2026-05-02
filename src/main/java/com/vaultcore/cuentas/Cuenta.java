@@ -1,4 +1,4 @@
-package com.vaultcore.vaultcore;
+package com.vaultcore.cuentas;
 
 import jakarta.persistence.*;
 import lombok.*;
