@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.*;
 @RequiredArgsConstructor
 public class CuentaController {
 
-    // El Camarero llama al Chef
+
     private final CuentaService cuentaService;
 
     // POST: Para crear datos (Enviar dinero o crear cuentas)
